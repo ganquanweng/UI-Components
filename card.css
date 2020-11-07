@@ -23,6 +23,7 @@
 
 .col-3 {
   flex: 1 0 31%;
+  max-width: 31%;
 }
 
 .card {
